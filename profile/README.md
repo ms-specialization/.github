@@ -1,6 +1,6 @@
 # ms-specialization
 
-Organização dedicada à minha jornada de **Especialização em Microsserviços** 🚀  
+Organização dedicada à minha jornada de **Especialização em Microsserviços** da [@AlgaWorks](https://github.com/algaworks) 🚀  
 Aqui ficam todos os repositórios e laboratórios criados durante a formação.
 
 ---
